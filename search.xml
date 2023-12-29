@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
+    <title>萝卜炖羊排的做法</title>
     <url>/2023/12/29/%E8%90%9D%E5%8D%9C%E7%82%96%E7%BE%8A%E6%8E%92/</url>
-    <content><![CDATA[<h1 id="萝卜炖羊排的做法"><a href="#萝卜炖羊排的做法" class="headerlink" title="萝卜炖羊排的做法"></a>萝卜炖羊排的做法</h1><figure class="highlight text"><table><tr><td class="code"><pre><span class="line">title:  萝卜炖羊排的做法</span><br><span class="line">date: 2023/12/29 </span><br><span class="line">categories: 生活</span><br><span class="line">tags: 美食</span><br></pre></td></tr></table></figure>
-
-<p>萝卜炖羊排是一道常见家常菜，老少皆宜。一般初学者只需要最多 2 小时即可完成。</p>
+    <content><![CDATA[<h1 id="萝卜炖羊排的做法"><a href="#萝卜炖羊排的做法" class="headerlink" title="萝卜炖羊排的做法"></a><strong>萝卜炖羊排的做法</strong></h1><p>萝卜炖羊排是一道常见家常菜，老少皆宜。一般初学者只需要最多 2 小时即可完成。</p>
 <h2 id="必备原料和工具"><a href="#必备原料和工具" class="headerlink" title="必备原料和工具"></a>必备原料和工具</h2><ul>
 <li>羊排</li>
 <li>白萝卜</li>
@@ -49,6 +47,13 @@
 </ul>
 <p>如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。</p>
 ]]></content>
+      <categories>
+        <category>生活</category>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>美食</tag>
+      </tags>
   </entry>
   <entry>
     <title>hello world</title>
